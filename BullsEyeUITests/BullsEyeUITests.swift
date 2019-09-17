@@ -76,7 +76,7 @@ class BullsEyeUITests: XCTestCase {
     let typeButton = app.buttons["Type"]
     XCTAssertEqual(true, typeButton.exists)
     typeButton.tap()
-    let
+    let kjkhkljoh=
   }
   
   // T5: Pressing the SLIDE button updates the
